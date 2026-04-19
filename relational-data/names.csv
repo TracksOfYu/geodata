@@ -5063,7 +5063,7 @@ nm_5061,長豐鎮,changfeng zhen,yrdb3909,Fortifications_Year1111_318
 nm_5062,肅寧寨,suning zhai,yrdb3910,Fortifications_Year1111_319
 nm_5063,永寧鎮,yongning zhen,yrdb3911,Fortifications_Year1111_321
 nm_5064,永寧寨,yongning zhai,yrdb3912,Fortifications_Year1111_328
-nm_5065,永和關,yonghe guan,yrdb3913,Fortifications_Year1111_331
+nm_5065,永和關,yonghe guan,yrdb1653,Fortifications_Year1111_331
 nm_5066,新店鎮,xindian zhen,yrdb3914,Fortifications_Year1111_341
 nm_5067,團城鎮,tuancheng zhen,yrdb3915,Fortifications_Year1111_342
 nm_5068,綦村鎮,qicun zhen,yrdb3916,Fortifications_Year1111_343
@@ -5114,7 +5114,7 @@ nm_5112,金明寨,jinming zhai,yrdb3960,Fortifications_Year1111_463
 nm_5113,萬安寨,wanan zhai,yrdb3961,Fortifications_Year1111_466
 nm_5114,三川口,sanchuan kou,yrdb3962,Fortifications_Year1111_467
 nm_5115,延水鎮,yanshui zhen,yrdb3963,Fortifications_Year1111_469
-nm_5116,龍安寨,longan zhai,yrdb3964,Fortifications_Year1111_470
+nm_5116,龍安寨,longan zhai,yrdb3536,Fortifications_Year1111_470
 nm_5117,安寨堡,anzhai bao,yrdb3965,Fortifications_Year1111_471
 nm_5118,安定堡,anding bao,yrdb3966,Fortifications_Year1111_472
 nm_5119,嗣武寨,siwu zhai,yrdb3967,Fortifications_Year1111_476
@@ -5126,7 +5126,7 @@ nm_5124,暖泉寨,nuanquan zhai,yrdb3972,Fortifications_Year1111_483
 nm_5125,順安寨,shunan zhai,yrdb3973,Fortifications_Year1111_486
 nm_5126,安邊城,anbian cheng,yrdb3974,Fortifications_Year1111_489
 nm_5127,流井堡,liujing bao,yrdb3975,Fortifications_Year1111_490
-nm_5128,清平關,qingping guan,yrdb3976,Fortifications_Year1111_491
+nm_5128,清平關,qingping guan,yrdb1914,Fortifications_Year1111_491
 nm_5129,興平城,xingping cheng,yrdb3977,Fortifications_Year1111_492
 nm_5130,洪德寨,hongde zhai,yrdb3978,Fortifications_Year1111_493
 nm_5131,惠丁堡,huiding bao,yrdb3979,Fortifications_Year1111_498
@@ -5170,7 +5170,7 @@ nm_5168,牛心亭,niuxin ting,yrdb4016,Fortifications_Year1111_610
 nm_5169,耀德城,yaode cheng,yrdb4017,Fortifications_Year1111_616
 nm_5170,循化城,xunhua cheng,yrdb4018,Fortifications_Year612_Merge_40
 nm_5171,燕然都護府,yanrandouhu fu,yrdb4019,Fortifications_Year1111_63
-nm_5172,西受降城,xishouxiang cheng,yrdb4020,Fortifications_Year1111_64
+nm_5172,西受降城,xishouxiang cheng,yrdb2728,Fortifications_Year1111_64
 nm_5173,諾真水澺,nuozhenshuiyi,yrdb4021,Fortifications_Year1111_65
 nm_5174,城堡,cheng bao,yrdb4022,Fortifications_Year1111_66
 nm_5175,石門,shimen,yrdb4023,Fortifications_Year1111_7
@@ -5178,7 +5178,7 @@ nm_5176,麟州,lin zhou,yrdb4024,Fortifications_Year1111_73
 nm_5177,匡州,kuang zhou,yrdb4025,Fortifications_Year1111_75
 nm_5178,西瓦亭,xiwa ting,yrdb4026,Fortifications_Year1111_78
 nm_5179,那城,na cheng,yrdb4027,Fortifications_Year1111_80
-nm_5180,驛馬關,yima guan,yrdb4028,Fortifications_Year1111_83
+nm_5180,驛馬關,yima guan,yrdb3375,Fortifications_Year1111_83
 nm_5181,鹿橋驛,luqiao yi,yrdb4029,Fortifications_Year1111_90
 nm_5182,德安寨,dean zhai,yrdb4030,Fortifications_Year1189_110
 nm_5183,通津堡,tongjin bao,yrdb4031,Fortifications_Year1189_14
@@ -5221,7 +5221,7 @@ nm_5219,通會堡,tonghui bao,yrdb4067,Fortifications_Year741_142
 nm_5220,定戎堡,dingrong bao,yrdb4068,Fortifications_Year741_143
 nm_5221,通安寨,tongan zhai,yrdb4069,Fortifications_Year741_146
 nm_5222,同家堡,tongjia bao,yrdb4070,Fortifications_Year741_153
-nm_5223,水洛城,shuiluo cheng,yrdb4071,Fortifications_Year741_162
+nm_5223,水洛城,shuiluo cheng,yrdb1642,Fortifications_Year741_162
 nm_5224,崔模鎮,cuimo zhen,yrdb4072,Fortifications_Year741_167
 nm_5225,虢川鎮,guochuan zhen,yrdb4073,Fortifications_Year741_172
 nm_5226,白澗鎮,baijian zhen,yrdb4074,Fortifications_Year741_178
@@ -5264,25 +5264,25 @@ nm_5262,安兒城,aner cheng,yrdb4110,Fortifications_Year612_Merge_40
 nm_5263,一公城,yigong cheng,yrdb4111,Fortifications_Year612_Merge_40
 nm_5264,永樂城,yongle cheng,yrdb4112,Fortifications_Year1111_477
 nm_5265,蒲津關,pujin guan,yrdb4113,Fortifications_Year1111_10
-nm_5266,新城,xin cheng,yrdb4114,Fortifications_Year1111_100
+nm_5266,新城,xin cheng,yrdb1277,Fortifications_Year1111_100
 nm_5267,臘河谷,lahe gu,yrdb4115,Fortifications_Year1111_101
 nm_5268,黃花堆,huanghuadui,yrdb4116,Fortifications_Year1111_102
 nm_5269,東陘關,dongxing guan,yrdb4117,Fortifications_Year1111_103
 nm_5270,玄池監,xuanchijian,yrdb4118,Fortifications_Year1111_106
 nm_5271,天池監,tianchijian,yrdb4119,Fortifications_Year1111_107
-nm_5272,天門關,tianmen guan,yrdb4120,Fortifications_Year1111_109
+nm_5272,天門關,tianmen guan,yrdb681,Fortifications_Year1111_109
 nm_5273,大震關,dazhen guan,yrdb4121,Fortifications_Year1111_11
 nm_5274,石會關,shihui guan,yrdb4122,Fortifications_Year1111_110
 nm_5275,晉祠,jinci,yrdb4123,Fortifications_Year1111_111
 nm_5276,烏城驛,wucheng yi,yrdb4124,Fortifications_Year1111_112
-nm_5277,故關,gu guan,yrdb4125,Fortifications_Year1111_113
+nm_5277,故關,gu guan,yrdb527,Fortifications_Year1111_113
 nm_5278,洞渦驛,dongwo yi,yrdb4126,Fortifications_Year1111_114
 nm_5279,秦城,qin cheng,yrdb4127,Fortifications_Year1111_116
 nm_5280,永安,yongan,yrdb4128,Fortifications_Year1111_117
 nm_5281,張難堡,zhangnan bao,yrdb4129,Fortifications_Year1111_118
 nm_5282,賈胡堡,jiahu bao,yrdb4130,Fortifications_Year1111_119
 nm_5283,仁壽宮,renshou gong,yrdb4131,Fortifications_Year1111_12
-nm_5284,陰地關,yindi guan,yrdb4132,Fortifications_Year1111_120
+nm_5284,陰地關,yindi guan,yrdb3125,Fortifications_Year1111_120
 nm_5285,申村堡,shencun bao,yrdb4133,Fortifications_Year1111_122
 nm_5286,東池堡,dongchi bao,yrdb4134,Fortifications_Year1111_123
 nm_5287,良馬寨,liangma zhai,yrdb4135,Fortifications_Year1111_124
@@ -5290,7 +5290,7 @@ nm_5288,霍壁,huobi,yrdb4136,Fortifications_Year1111_125
 nm_5289,鼓腰嶺,guyao ling,yrdb4137,Fortifications_Year1111_126
 nm_5290,高望堡,gaowang bao,yrdb4138,Fortifications_Year1111_127
 nm_5291,阿城,a cheng,yrdb4139,Fortifications_Year1111_14
-nm_5292,甘泉宮,ganquan gong,yrdb4140,Fortifications_Year1111_15
+nm_5292,甘泉宮,ganquan gong,yrdb3133,Fortifications_Year1111_15
 nm_5293,張掖守捉,zhangyeshouzhuo,yrdb4141,Fortifications_Year1111_158
 nm_5294,太平宮,taiping gong,yrdb4142,Fortifications_Year1111_16
 nm_5295,白水軍,baishui jun,yrdb4143,Fortifications_Year1111_163
@@ -5724,5 +5724,5 @@ nm_5722,宗哥城,zongge cheng,yrdb4570,Fortifications_Year741_10
 nm_5723,林金城,linjin cheng,yrdb4571,Fortifications_Year741_12
 nm_5724,貓牛城,maoniu cheng,yrdb4572,Fortifications_Year741_13
 nm_5725,羊牧隆城,yangmulong cheng,yrdb4573,Fortifications_Year741_9
-
+,,,,
 nm_5726,溪蘭宗堡,xilanzong bao,yrdb4574,Fortifications_Year741_9
