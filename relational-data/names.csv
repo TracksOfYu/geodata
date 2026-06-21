@@ -5726,3 +5726,264 @@ nm_5724,貓牛城,maoniu cheng,yrdb4572,Fortifications_Year741_13
 nm_5725,羊牧隆城,yangmulong cheng,yrdb4573,Fortifications_Year741_9
 ,,,,
 nm_5726,溪蘭宗堡,xilanzong bao,yrdb4574,Fortifications_Year741_9
+nm_5727,小南河寨,Xiaonahe,yrdb4580,Fortifications_Year1111
+nm_5728,大行經,Daxing,yrdb4581,Fortifications_Year1111
+nm_5729,省嵬城,Shengwei,yrdb4582,Fortifications_Year1111
+nm_5730,耀德城,Yaode,yrdb4583,Fortifications_Year1111
+nm_5731,怀戎堡,Shuiquan,yrdb4584,Fortifications_Year1111
+nm_5732,保塞寨 (安儿城),Baosai (An'er),yrdb4585,Fortifications_Year1111
+nm_5733,巩渭陇西 (古渭寨),Gongzhou Longxi (Guwei),yrdb4586,Fortifications_Year1111
+nm_5734,石门堡,Shimen,yrdb4587,Fortifications_Year1111
+nm_5735,怀德军 (平夏城),Huaide (Pingxia),yrdb4588,Fortifications_Year1111
+nm_5736,原州 (临经),Yuanzhou (Linjing),yrdb4589,Fortifications_Year1111
+nm_5737,经州 (保定),Jingzhou (Baoding),yrdb4590,Fortifications_Year1111
+nm_5738,百里镇,Baili,yrdb4591,Fortifications_Year1111
+nm_5739,良原,Liangyuan,yrdb4592,Fortifications_Year1111
+nm_5740,灵台,Lingtai,yrdb4593,Fortifications_Year1111
+nm_5741,张武,Zhangwu,yrdb4594,Fortifications_Year1111
+nm_5742,彭阳,Pengyang,yrdb4595,Fortifications_Year1111
+nm_5743,崇信,Chongxin,yrdb4596,Fortifications_Year1111
+nm_5744,潘原,Panyuan,yrdb4597,Fortifications_Year1111
+nm_5745,渭州 (平凉),Weizhou (Pingliang),yrdb4598,Fortifications_Year1111
+nm_5746,安化 (制胜关),Anhua (Zhisheng),yrdb4599,Fortifications_Year1111
+nm_5747,华亭,Huating,yrdb4600,Fortifications_Year1111
+nm_5748,西安州,Xi'anzhou,yrdb4601,Fortifications_Year1111
+nm_5749,兰州 (兰泉),Lanzhou (Lanquan),yrdb4602,Fortifications_Year1111
+nm_5750,德顺军 (笼竿城),Deshun (Longgan),yrdb4603,Fortifications_Year1111
+nm_5751,陇干 (外底堡),Longgan (Waidi),yrdb4604,Fortifications_Year1111
+nm_5752,陇州(汧源),Longzhou (Qianyuan),yrdb4605,Fortifications_Year1111
+nm_5753,汧阳,Qianyang,yrdb4606,Fortifications_Year1111
+nm_5754,昊山,Haoshan,yrdb4607,Fortifications_Year1111
+nm_5755,陇安,Long'an,yrdb4608,Fortifications_Year1111
+nm_5756,凤翔府,Fengxiang,yrdb4609,Fortifications_Year1111
+nm_5757,普润,Purun,yrdb4610,Fortifications_Year1111
+nm_5758,麟游,Linyou,yrdb4611,Fortifications_Year1111
+nm_5759,好畤,Haozhi,yrdb4612,Fortifications_Year1111
+nm_5760,岐山,Qishan,yrdb4613,Fortifications_Year1111
+nm_5761,扶风,Fufeng,yrdb4614,Fortifications_Year1111
+nm_5762,宝鸡,Baoji,yrdb4615,Fortifications_Year1111
+nm_5763,郿县,Meixian,yrdb4616,Fortifications_Year1111
+nm_5764,虢县,Guoxian,yrdb4617,Fortifications_Year1111
+nm_5765,盩庢,Zhouzhi,yrdb4618,Fortifications_Year1111
+nm_5766,凤州 梁泉,Fengzhou (Liangquan),yrdb4619,Fortifications_Year1111
+nm_5767,长道,Changdao,yrdb4620,Fortifications_Year1111
+nm_5768,祐川,Youchuan,yrdb4621,Fortifications_Year1111
+nm_5769,岷州,Minzhou,yrdb4622,Fortifications_Year1111
+nm_5770,洮州 (临洮城),Taozhou (Lintaocheng),yrdb4623,Fortifications_Year1111
+nm_5771,宁河 (香子城),Ninghe (Xiangzi),yrdb4624,Fortifications_Year1111
+nm_5772,循化城 (一公城),Xunhua (Yigong),yrdb4625,Fortifications_Year1111
+nm_5773,积石军 (溪哥城),Jishi (Xige),yrdb4626,Fortifications_Year1111
+nm_5774,廓州,Kuozhou,yrdb4627,Fortifications_Year1111
+nm_5775,湟州,Huangzhou,yrdb4628,Fortifications_Year1111
+nm_5776,会州 (敷川),Huizhou (Fuchuan),yrdb4629,Fortifications_Year1111
+nm_5777,宁远,Ningyuan,yrdb4630,Fortifications_Year1111
+nm_5778,夕阳镇,Xiyang,yrdb4631,Fortifications_Year1111
+nm_5779,陇城,Longcheng,yrdb4632,Fortifications_Year1111
+nm_5780,清水,Qingshui,yrdb4633,Fortifications_Year1111
+nm_5781,天水,Tianshui,yrdb4634,Fortifications_Year1111
+nm_5782,永宁,Yongning,yrdb4635,Fortifications_Year1111
+nm_5783,秦州 (成纪),Qinzhou (Chengji),yrdb4636,Fortifications_Year1111
+nm_5784,熙州 (狄道),Xizhou (Didao),yrdb4637,Fortifications_Year1111
+nm_5785,西徑鎮,Xijing,yrdb4638,Fortifications_Year1189
+nm_5786,胡谷鎮,Hugu,yrdb4639,Fortifications_Year1189
+nm_5787,茹越鎮,Ruyue,yrdb4640,Fortifications_Year1189
+nm_5788,大石鎮,Dashi,yrdb4641,Fortifications_Year1189
+nm_5789,義興鎮,Yixing,yrdb4642,Fortifications_Year1189
+nm_5790,麻谷鎮,Magu,yrdb4643,Fortifications_Year1189
+nm_5791,梅回鎮,Meihui,yrdb4644,Fortifications_Year1189
+nm_5792,瓶形鎮,Pingxing,yrdb4645,Fortifications_Year1189
+nm_5793,寶興鎮,Baoxing,yrdb4646,Fortifications_Year1189
+nm_5794,神木寨,Shenmu,yrdb4647,Fortifications_Year1189
+nm_5795,合河津鎮,Hehejin,yrdb4648,Fortifications_Year1189
+nm_5796,太和寨,Taihe,yrdb4649,Fortifications_Year1189
+nm_5797,窟谷鎮,Kugu,yrdb4650,Fortifications_Year1189
+nm_5798,云內鎮,Yunnei,yrdb4651,Fortifications_Year1189
+nm_5799,徒合鎮,Tuhe,yrdb4652,Fortifications_Year1189
+nm_5800,忻口鎮,Xinko,yrdb4653,Fortifications_Year1189
+nm_5801,天門關鎮,Tianmenguan,yrdb4654,Fortifications_Year1189
+nm_5802,百井鎮,Baijing,yrdb4655,Fortifications_Year1189
+nm_5803,赤塘關鎮,Chitangguan,yrdb4656,Fortifications_Year1189
+nm_5804,上平關,,yrdb4657,Fortifications_Year1189
+nm_5805,米脂鎮,Mizhi,yrdb4658,Fortifications_Year1189
+nm_5806,郭柵鎮,Guozha,yrdb4659,Fortifications_Year1189
+nm_5807,團栢鎮,Tuanbai,yrdb4660,Fortifications_Year1189
+nm_5808,南關鎮,Nanguan,yrdb4661,Fortifications_Year1189
+nm_5809,凈陽鎮,Jingyang,yrdb4662,Fortifications_Year1189
+nm_5810,永和關,Yonghe,yrdb4663,Fortifications_Year1189
+nm_5811,馬斗關,Madou,yrdb4664,Fortifications_Year1189
+nm_5812,Si亭鎮,Siting,yrdb4665,Fortifications_Year1189
+nm_5813,黃澤關,Huangze,yrdb4666,Fortifications_Year1189
+nm_5814,曹張鎮,Caozhang,yrdb4667,Fortifications_Year1189
+nm_5815,張店鎮,Zhangdian,yrdb4668,Fortifications_Year1189
+nm_5816,合河鎮,Hehe,yrdb4669,Fortifications_Year1189
+nm_5817,萬善鎮,Wanshan,yrdb4670,Fortifications_Year1189
+nm_5818,星軺鎮,Xingyao,yrdb4671,Fortifications_Year1189
+nm_5819,天井關,Tianjing,yrdb4672,Fortifications_Year1189
+nm_5820,宋郭鎮,Songguo,yrdb4673,Fortifications_Year1189
+nm_5821,武德鎮,Wude,yrdb4674,Fortifications_Year1189
+nm_5822,威戎城,Weirong,yrdb4675,Fortifications_Year1189
+nm_5823,臨夏寨,Linxia,yrdb4676,Fortifications_Year1189
+nm_5824,安寨堡,Anzhai,yrdb4677,Fortifications_Year1189
+nm_5825,安定堡,Anding,yrdb4678,Fortifications_Year1189
+nm_5826,永平寨,Yongpin,yrdb4679,Fortifications_Year1189
+nm_5827,嗣武城,Siwu,yrdb4680,Fortifications_Year1189
+nm_5828,米脂寨,Mizhi,yrdb4681,Fortifications_Year1189
+nm_5829,開光堡,Kaiguang,yrdb4682,Fortifications_Year1189
+nm_5830,京玉關,Jingyu,yrdb4683,Fortifications_Year1189
+nm_5831,西關堡,Xiguan,yrdb4684,Fortifications_Year1189
+nm_5832,東關堡,Dongguan,yrdb4685,Fortifications_Year1189
+nm_5833,新泉城,Xinquan,yrdb4686,Fortifications_Year1189
+nm_5834,九羊寨,Jiuyang,yrdb4687,Fortifications_Year1189
+nm_5835,簜羌寨,Dangqiang,yrdb4688,Fortifications_Year1189
+nm_5836,靈平寨,Lingping,yrdb4689,Fortifications_Year1189
+nm_5837,通峽寨,Tongxia,yrdb4690,Fortifications_Year1189
+nm_5838,熙寧寨,Xining,yrdb4691,Fortifications_Year1189
+nm_5839,天圣寨,Tiansheng,yrdb4692,Fortifications_Year1189
+nm_5840,乾興堡,Qianxing,yrdb4693,Fortifications_Year1189
+nm_5841,安邊寨,Anbian,yrdb4694,Fortifications_Year1189
+nm_5842,流井堡,Liujing,yrdb4695,Fortifications_Year1189
+nm_5843,靖安寨,Jing'an,yrdb4696,Fortifications_Year1189
+nm_5844,綏寧寨,Suining,yrdb4697,Fortifications_Year1189
+nm_5845,歸德堡,Guide,yrdb4698,Fortifications_Year1189
+nm_5846,興平堡,Xingping,yrdb4699,Fortifications_Year1189
+nm_5847,洪德寨,Hongde,yrdb4700,Fortifications_Year1189
+nm_5848,乌仑寨,Wulun,yrdb4701,Fortifications_Year1189
+nm_5849,合道鎮,Hedao,yrdb4702,Fortifications_Year1189
+nm_5850,木瓜堡,Mugua,yrdb4703,Fortifications_Year1189
+nm_5851,Maling,Maling,yrdb4704,Fortifications_Year1189
+nm_5852,五交鎮,Wujiao,yrdb4705,Fortifications_Year1189
+nm_5853,業樂鎮,Ye yue/le,yrdb4706,Fortifications_Year1189
+nm_5854,柔遠寨,Rongyuan,yrdb4707,Fortifications_Year1189
+nm_5855,白豹城,Baibao,yrdb4708,Fortifications_Year1189
+nm_5856,大順城,Dashun,yrdb4709,Fortifications_Year1189
+nm_5857,華池寨,Huachi,yrdb4710,Fortifications_Year1189
+nm_5858,順寧寨,Shunning,yrdb4711,Fortifications_Year1189
+nm_5859,金湯城,Jintang,yrdb4712,Fortifications_Year1189
+nm_5860,德靖寨,Dejing,yrdb4713,Fortifications_Year1189
+nm_5861,園林堡,Yuanlin,yrdb4714,Fortifications_Year1189
+nm_5862,招安寨,Zhaoan,yrdb4715,Fortifications_Year1189
+nm_5863,萬安寨,Wan'an,yrdb4716,Fortifications_Year1189
+nm_5864,雲岩鎮,Yunyan,yrdb4717,Fortifications_Year1189
+nm_5865,烏仁關,Wuren,yrdb4718,Fortifications_Year1189
+nm_5866,大通城,Datong,yrdb4719,Fortifications_Year1189
+nm_5867,通津堡,Tongjin,yrdb4720,Fortifications_Year1189
+nm_5868,循化城,Xunhua,yrdb4721,Fortifications_Year1189
+nm_5869,來同堡,Laitong,yrdb4722,Fortifications_Year1189
+nm_5870,臨灘堡,Lintan,yrdb4723,Fortifications_Year1189
+nm_5871,安鄉,Anxiang,yrdb4724,Fortifications_Year1189
+nm_5872,南川寨,Nanchuan,yrdb4725,Fortifications_Year1189
+nm_5873,通會關寨,Tonghuiguan,yrdb4726,Fortifications_Year1189
+nm_5874,定羌城寨,Dingqiangcheng,yrdb4727,Fortifications_Year1189
+nm_5875,臨洮堡,Lintao,yrdb4728,Fortifications_Year1189
+nm_5876,康樂寨,Tang lue/yue,yrdb4729,Fortifications_Year1189
+nm_5877,通谷堡,Tonggu,yrdb4730,Fortifications_Year1189
+nm_5878,南川堡,Nanchuan,yrdb4731,Fortifications_Year1189
+nm_5879,平西寨,Pingxi,yrdb4732,Fortifications_Year1189
+nm_5880,慶平鎮,Qingping,yrdb4733,Fortifications_Year1189
+nm_5881,渭源堡,Weiyuan,yrdb4734,Fortifications_Year1189
+nm_5882,熟蘭寨,Shulan,yrdb4735,Fortifications_Year1189
+nm_5883,通安寨,Tong’an,yrdb4736,Fortifications_Year1189
+nm_5884,得勝寨,Desheng,yrdb4737,Fortifications_Year1189
+nm_5885,中安堡,Zhong’an,yrdb4738,Fortifications_Year1189
+nm_5886,靜邊寨,Jingbian,yrdb4739,Fortifications_Year1189
+nm_5887,隴城寨,Longcheng,yrdb4740,Fortifications_Year1189
+nm_5888,懷遠寨,Huaiyuan,yrdb4741,Fortifications_Year1189
+nm_5889,蓮花城,Lianhua,yrdb4742,Fortifications_Year1189
+nm_5890,張義寨,Zhangyi,yrdb4743,Fortifications_Year1189
+nm_5891,開遠堡,Kaiyuan,yrdb4744,Fortifications_Year1189
+nm_5892,彭陽堡,Pengyan,yrdb4745,Fortifications_Year1189
+nm_5893,柳泉鎮,Liuchuan,yrdb4746,Fortifications_Year1189
+nm_5894,瓦亭寨,Wating,yrdb4747,Fortifications_Year1189
+nm_5895,白岩河鎮,Baiyanhe,yrdb4748,Fortifications_Year1189
+nm_5896,西赤城鎮,Xichicheng,yrdb4749,Fortifications_Year1189
+nm_5897,平安寨,Ping’an,yrdb4750,Fortifications_Year1189
+nm_5898,新城鎮,Xincheng,yrdb4751,Fortifications_Year1189
+nm_5899,,,yrdb4752,Fortifications_Year1189
+nm_5900,西壕寨,Xihao,yrdb4753,Fortifications_Year1189
+nm_5901,開邊寨,Kaibian,yrdb4754,Fortifications_Year1189
+nm_5902,蕭鎮,Suzhen,yrdb4755,Fortifications_Year1189
+nm_5903,百裡鎮,Baili,yrdb4756,Fortifications_Year1189
+nm_5904,邵寨鎮,Shaozhai,yrdb4757,Fortifications_Year1189
+nm_5905,景山鎮,Jingshan,yrdb4758,Fortifications_Year1189
+nm_5906,董志鎮,Dongzhi,yrdb4759,Fortifications_Year1189
+nm_5907,金櫃鎮,Jingui,yrdb4760,Fortifications_Year1189
+nm_5908,山河鎮,Shanhe,yrdb4761,Fortifications_Year1189
+nm_5909,良輔鎮,Liangfu,yrdb4762,Fortifications_Year1189
+nm_5910,寺前鎮,Shiqian,yrdb4763,Fortifications_Year1189
+nm_5911,夏陽鎮,Xiayang,yrdb4764,Fortifications_Year1189
+nm_5912,鹽川鎮,Yanchuan,yrdb4765,Fortifications_Year1189
+nm_5913,來遠寨,Laiyuan,yrdb4766,Fortifications_Year1189
+nm_5914,鐵城堡,Tiecheng,yrdb4767,Fortifications_Year1189
+nm_5915,寧遠寨,Ningyuan,yrdb4768,Fortifications_Year1189
+nm_5916,永寧寨,Yongning,yrdb4769,Fortifications_Year1189
+nm_5917,安遠寨,Anyuan,yrdb4770,Fortifications_Year1189
+nm_5918,伏羌城,Fuqiang,yrdb4771,Fortifications_Year1189
+nm_5919,定西寨,Dingxi,yrdb4772,Fortifications_Year1189
+nm_5920,三陽寨,Sanyang,yrdb4773,Fortifications_Year1189
+nm_5921,靜戎鎮,Jingrong,yrdb4774,Fortifications_Year1189
+nm_5922,弓門寨,Gongmen,yrdb4775,Fortifications_Year1189
+nm_5923,安化寨,Anhua,yrdb4776,Fortifications_Year1189
+nm_5924,新興寨,Xinxing,yrdb4777,Fortifications_Year1189
+nm_5925,崔模鎮,Chuimu,yrdb4778,Fortifications_Year1189
+nm_5926,五裡坡,Wuli,yrdb4779,Fortifications_Year1189
+nm_5927,武城鎮,Wucheng,yrdb4780,Fortifications_Year1189
+nm_5928,陽平鎮,Yangping,yrdb4781,Fortifications_Year1189
+nm_5929,驛店鎮,Yidian,yrdb4782,Fortifications_Year1189
+nm_5930,龍尾坡,Longwei,yrdb4783,Fortifications_Year1189
+nm_5931,岐陽鎮,Qiyang,yrdb4784,Fortifications_Year1189
+nm_5932,常寧鎮,Changing,yrdb4785,Fortifications_Year1189
+nm_5933,甘北鎮,Ganbei,yrdb4786,Fortifications_Year1189
+nm_5934,薛祿鎮,Xuelu,yrdb4787,Fortifications_Year1189
+nm_5935,長寧鎮,Changing,yrdb4788,Fortifications_Year1189
+nm_5936,馬嵬坡,Mawei,yrdb4789,Fortifications_Year1189
+nm_5937,甘河鎮,Ganhe,yrdb4790,Fortifications_Year1189
+nm_5938,鳴犢鎮,Mingdu,yrdb4791,Fortifications_Year1189
+nm_5939,玉城鎮,Yucheng,yrdb4792,Fortifications_Year1189
+nm_5940,新市鎮,Xinshi,yrdb4793,Fortifications_Year1189
+nm_5941,延祥鎮,Yanxiang,yrdb4794,Fortifications_Year1189
+nm_5942,關西鎮,Guanxi,yrdb4795,Fortifications_Year1189
+nm_5943,粟邑鎮,Liyi,yrdb4796,Fortifications_Year1189
+nm_5944,來化鎮,Laihua,yrdb4797,Fortifications_Year1189
+nm_5945,赤水鎮,Chishui,yrdb4798,Fortifications_Year1189
+nm_5946,零口鎮,Lingkou,yrdb4799,Fortifications_Year1189
+nm_5947,渭橋鎮,Weiqiao,yrdb4800,Fortifications_Year1189
+nm_5948,灞橋鎮,Baqiao,yrdb4801,Fortifications_Year1189
+nm_5949,常樂鎮,Chang yue/le,yrdb4802,Fortifications_Year1189
+nm_5950,沙苑鎮,Shayuan,yrdb4803,Fortifications_Year1189
+nm_5951,敷水鎮,Fushui,yrdb4804,Fortifications_Year1189
+nm_5952,朱陽鎮,Zhuyang,yrdb4805,Fortifications_Year1189
+nm_5953,臨涇鎮,Linjing,yrdb4806,Fortifications_Year1189
+nm_5954,子午鎮,Zuwu,yrdb4807,Fortifications_Year1189
+nm_5955,秦渡鎮,Qindu,yrdb4808,Fortifications_Year1189
+nm_5956,毗沙鎮,Pisha,yrdb4809,Fortifications_Year1189
+nm_5957,惠丁堡,Huiding,yrdb4810,Fortifications_Year1189
+nm_5958,大同城,Datong,yrdb4811,Fortifications_Year612
+nm_5959,折摭城,Zhexia,yrdb4812,Fortifications_Year612
+nm_5960,長武城,Changwu,yrdb4813,Fortifications_Year612
+nm_5961,賈胡堡,Jiahu,yrdb4814,Fortifications_Year612
+nm_5962,龍泉鎮,Longquan,yrdb4815,Fortifications_Year741
+nm_5963,升平縣,Shengping,yrdb4816,Fortifications_Year741
+nm_5964,灞桥驛,Baqiao,yrdb4817,Fortifications_Year741
+nm_5965,靈口,Lingkou,yrdb4818,Fortifications_Year741
+nm_5966,敷水驛,Fushui,yrdb4819,Fortifications_Year741
+nm_5967,關西驛,Guanxi,yrdb4820,Fortifications_Year741
+nm_5968,合道,Hedao,yrdb4821,Fortifications_Year741
+nm_5969,府城關,Fucheng,yrdb4822,Fortifications_Year741
+nm_5970,六盤關,Liupan,yrdb4823,Fortifications_Year741
+nm_5971,長武城,Changwu,yrdb4824,Fortifications_Year741
+nm_5972,土城,Tucheng,yrdb4825,Fortifications_Year741
+nm_5973,文德縣,Wende,yrdb4826,Fortifications_Year741
+nm_5974,永興縣,Yongxing,yrdb4827,Fortifications_Year741
+nm_5975,樓煩關,Loufan,yrdb4828,Fortifications_Year741
+nm_5976,雁門關,Yanmen,yrdb4829,Fortifications_Year741
+nm_5977,百井,Baijing,yrdb4830,Fortifications_Year741
+nm_5978,赤糖 關,Chitang,yrdb4831,Fortifications_Year741
+nm_5979,石嶺 關,Shiling,yrdb4832,Fortifications_Year741
+nm_5980,上平 津,Shangping,yrdb4833,Fortifications_Year741
+nm_5981,太平驛,Taiping,yrdb4834,Fortifications_Year741
+nm_5982,,,yrdb4835,Fortifications_Year741
+nm_5983,承天軍,Chengtian,yrdb4836,Fortifications_Year741
+nm_5984,黃澤,Huangze,yrdb4837,Fortifications_Year741
+nm_5985,綏戎城,Suirong,yrdb4838,Fortifications_Year741
+nm_5986,宣武軍,Xuanwu,yrdb4839,Fortifications_Year741
+nm_5987,金城關,Jincheng,yrdb4840,Fortifications_Year741
